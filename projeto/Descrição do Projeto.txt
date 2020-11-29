@@ -1,0 +1,6 @@
+Para esse projeto eu realizei a implementação do uso do Google Maps.
+Meu objetivo é exibir algumas marcações no estado Sp(por enquanto) de alguns
+pedais que fiz. Gosto muito de andar de bicicleta e achei que seria legal ter um
+app que marcasse os locais já visitados.
+
+Não consegui implementar algo no heroku ainda, mas desejo melhorá-lo para usar.
