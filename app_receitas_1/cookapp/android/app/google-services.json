@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632639380565",
+    "firebase_url": "https://cookapp1-38127.firebaseio.com",
+    "project_id": "cookapp1-38127",
+    "storage_bucket": "cookapp1-38127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632639380565:android:e590bff867302d168c08dc",
+        "android_client_info": {
+          "package_name": "com.example.cookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632639380565-p6snunipl9bgrvcmk8flnka23i9larc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADMfH4aa1lZ-6c-WZ0ySOL3igzmMcSnmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632639380565-p6snunipl9bgrvcmk8flnka23i9larc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

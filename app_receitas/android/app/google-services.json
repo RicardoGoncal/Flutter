@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303084358481",
+    "firebase_url": "https://appcook-c5a29.firebaseio.com",
+    "project_id": "appcook-c5a29",
+    "storage_bucket": "appcook-c5a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303084358481:android:0fe98410ac8e21d33d2170",
+        "android_client_info": {
+          "package_name": "com.example.app_receitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303084358481-6jlskckmts50nm4dd20fq1moa9f86rgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIfA4npH3fPadMBUidMAuhBOckpeM8tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303084358481-6jlskckmts50nm4dd20fq1moa9f86rgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+    {
+    "offices": [
+        {
+            "address": "Rua jose de Anchieta",
+            "id": 309,
+            "image": "",
+            "lat": -23.5720767,
+            "long": -46.823677,
+            "name": "casa",
+            "region": "caracas"
+        },
+        {
+            "address": "Rua kalil filho",
+            "id": 594,
+            "image": "",
+            "lat": -23.5723815,
+            "long": -46.8223681,
+            "name": "alemao",
+            "region": "caracas"
+        }
+    ]
+}
